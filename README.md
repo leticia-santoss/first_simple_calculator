@@ -1,1 +1,0 @@
-# first_simple_calculator
